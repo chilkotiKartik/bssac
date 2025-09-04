@@ -47,7 +47,7 @@ export default function AboutPage() {
   const advisors = [
     {
       name: "Kartik Chilkoti",
-      role: language === "hi" ? "तकनीकी सलाहकार" : "Technical Advisor",
+      role: language === "hi" ? "तकनीकी " : "Technical",
       bio:
         language === "hi"
           ? "कार्तिक चिलकोटी प्रौद्योगिकी और वेब विकास के प्रख्यात विशेषज्ञ हैं। उन्होंने अनेक प्रोजेक्ट्स पर कार्य किया है और नवीन तकनीकी समाधानों पर कई शोध एवं नवाचार प्रस्तुत किए हैं"
